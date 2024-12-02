@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Omdbapp/static/css/main.67b12346.css",
+    "main.js": "/Omdbapp/static/js/main.e189c94c.js",
+    "index.html": "/Omdbapp/index.html",
+    "main.67b12346.css.map": "/Omdbapp/static/css/main.67b12346.css.map",
+    "main.e189c94c.js.map": "/Omdbapp/static/js/main.e189c94c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b12346.css",
+    "static/js/main.e189c94c.js"
+  ]
+}
